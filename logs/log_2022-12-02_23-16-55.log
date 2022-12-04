@@ -1,0 +1,17 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product1 (call)
+Start time: 2022-12-02 23:16:57.655041
+Start name method: start_buy
+
+End time: 2022-12-02 23:17:12.884281
+End name method: start_buy
+URL: https://www.onlinetrade.ru/catalogue/smartfony-c13/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product1 (call)
+Start time: 2022-12-02 23:17:14.918505
+Start name method: filter_product
+

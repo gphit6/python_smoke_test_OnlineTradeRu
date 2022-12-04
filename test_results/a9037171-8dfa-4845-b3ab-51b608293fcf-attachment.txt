@@ -1,0 +1,20 @@
+Start test 1
+click catalog_button
+click smartphone_button
+Нажмаем кнопку Выбор по цене
+clear min price
+input min price
+clear max price
+input max price
+input min_diagonal
+input max_diagonal
+click check_box
+input pick up button
+move in cart phone а33w
+refresh page
+click icon cart, move to login_page or to cart_page
+click button_continue_no_reg
+click button_select_city
+click select_balashika_city
+click select_pickup_point_galion
+click select_payment_method_cash

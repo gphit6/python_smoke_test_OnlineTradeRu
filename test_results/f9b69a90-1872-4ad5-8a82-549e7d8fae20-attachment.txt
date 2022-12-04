@@ -1,0 +1,12 @@
+Start test 1
+click catalog_button
+click smartphone_button
+Нажмаем кнопку Выбор по цене
+clear min price
+input min price
+clear max price
+input max price
+input min_diagonal
+input max_diagonal
+click check_box
+input pick up button

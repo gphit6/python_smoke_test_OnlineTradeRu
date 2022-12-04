@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product1 (call)
+Start time: 2022-12-02 23:12:16.095839
+Start name method: start_buy
+
+End time: 2022-12-02 23:12:31.280229
+End name method: start_buy
+URL: https://www.onlinetrade.ru/catalogue/smartfony-c13/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product1 (call)
+Start time: 2022-12-02 23:12:33.288412
+Start name method: filter_product
+
+End time: 2022-12-02 23:13:02.209406
+End name method: filter_product
+URL: https://www.onlinetrade.ru/basket.html?basket_hash=ada953ce2d9e9069207fa4f2113c9420
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product1 (call)
+Start time: 2022-12-02 23:13:12.218656
+Start name method: move_to_cart
+
+End time: 2022-12-02 23:13:16.035238
+End name method: move_to_cart
+URL: https://www.onlinetrade.ru/basket.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product1 (call)
+Start time: 2022-12-02 23:13:16.035238
+Start name method: option_buy_and_checkout
+
+End time: 2022-12-02 23:13:20.925414
+End name method: option_buy_and_checkout
+URL: https://www.onlinetrade.ru/basket.html?c=1
+
+-----
